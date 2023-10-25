@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi there 👋
+I am a professional iOS developer at Voicy Inc. in Japan.
 
-<!--
-**Mucchoo/Mucchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have released three personally developed iOS apps to the App Store.
 
-Here are some ideas to get you started:
+1. https://github.com/Mucchoo/WordWize - Vocabulary Builder App
+2. https://github.com/Mucchoo/MuscleRecord - Weight Training Record App
+3. https://github.com/Mucchoo/RestockList - Consumables Management App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Computer Languages
+Swift / Objective-C
+
+### Framework
+UIKit / SwiftUI / AVFoundation / Core Animation / Core Graphics / WidgetKit / WebKit / StoreKit / MessageUI / Media Player / User Notifications
+
+### Database
+CoreData / CloudKit / Realm / FireStore / MySQL
+
+### Libraries
+Skyway (Video Chat) / SocketIO (real-time two-way communication) / Chivox (English Speaking Scoring AI) / SDWebImage / KingFisher / Lottie / CocoaPods / Swift Package Manager / Firebase (Authentication, Crashlytics, Remote Config)
+
+### Tools
+Xcode / Instruments / Fastlane / Postman / Slack / Jira / Bitrize / Xcode Cloud / TestFlight / DeployGate
+
+### Sub Skills
+HTML / CSS / JavaScript
+
+### Human Languages
+Japanese - Native Level  
+English - Business Level
