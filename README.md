@@ -25,7 +25,7 @@ Skyway (Video Chat) / SocketIO (real-time two-way communication) / Chivox (Engli
 Xcode / Instruments / Fastlane / Postman / Slack / Jira / Bitrize / Xcode Cloud / TestFlight / DeployGate
 
 ### Sub Skills
-HTML / CSS / JavaScript
+HTML / CSS / JavaScript / zsh
 
 ### Human Languages
 Japanese - Native Level  
