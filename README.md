@@ -13,20 +13,16 @@ I have released three personally developed iOS apps to the App Store.
 Swift / Objective-C
 
 ### Framework
-UIKit / SwiftUI / AVFoundation / Core Animation / Core Graphics / WidgetKit / WebKit / StoreKit / MessageUI / Media Player / User Notifications
+UIKit / SwiftUI / AVFoundation / Core Animation / Core Graphics / WidgetKit / WebKit / StoreKit / MessageUI / Media Player / User Notifications / Combine / XCTest / 
 
 ### Database
 CoreData / CloudKit / Realm / FireStore / MySQL
 
 ### Libraries
-Skyway (Video Chat) / SocketIO (real-time two-way communication) / Chivox (English Speaking Scoring AI) / SDWebImage / KingFisher / Lottie / CocoaPods / Swift Package Manager / Firebase (Authentication, Crashlytics, Remote Config)
+Skyway (Video Chat) / SocketIO (real-time two-way communication) / Chivox (English Speaking Scoring AI) / SDWebImage / KingFisher / Lottie / CocoaPods / Swift Package Manager / Firebase (Authentication, Crashlytics, Remote Config) / ViewInspector / 
 
 ### Tools
 Xcode / Instruments / Fastlane / Postman / Slack / Jira / Bitrize / Xcode Cloud / TestFlight / DeployGate
 
 ### Sub Skills
 HTML / CSS / JavaScript / zsh
-
-### Human Languages
-Japanese - Native Level  
-English - Business Level
