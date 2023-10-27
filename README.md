@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a professional iOS developer at Voicy Inc. in Japan.
+I am an iOS developer at Voicy Inc. in Japan.
 
 I have released three personally developed iOS apps to the App Store.
 
