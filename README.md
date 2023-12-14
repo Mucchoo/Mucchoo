@@ -3,7 +3,7 @@ I am an iOS developer at Voicy Inc. in Japan.
 
 I have released three personally developed iOS apps to the App Store.
 
-1. https://github.com/Mucchoo/WordWize - Vocabulary Builder App
+1. https://github.com/Mucchoo/WordWise - Vocabulary Builder App
 2. https://github.com/Mucchoo/MuscleRecord - Weight Training Record App
 3. https://github.com/Mucchoo/RestockList - Consumables Management App
 
