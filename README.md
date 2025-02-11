@@ -1,3 +1,7 @@
+# 🤖 OSS Contributions
+
+[![MYImageCropper](https://github-readme-stats.vercel.app/api/pin/?username=Mucchoo&repo=MYImageCropper)](https://github.com/Mucchoo/MYImageCropper)
+
 # 🚀 My Applications
 
 ## Vocabulary AI (2025)
@@ -20,9 +24,3 @@
 [![Restock List](https://github-readme-stats.vercel.app/api/pin/?username=Mucchoo&repo=RestockList)](https://github.com/Mucchoo/RestockList)
 
 <img src="https://user-images.githubusercontent.com/97211329/174438127-2aaf9e6c-dce3-41ce-b319-e401c001b937.png">
-
-</details>
-
-# 🤖 OSS Contributions
-
-[![MYImageCropper](https://github-readme-stats.vercel.app/api/pin/?username=Mucchoo&repo=MYImageCropper)](https://github.com/Mucchoo/MYImageCropper)
