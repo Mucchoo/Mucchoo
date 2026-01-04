@@ -5,7 +5,7 @@
 
 # 🚀 My Applications
 
-## Vocabulary AI (2024-2025)
+## Vocabulary AI (2024-2026)
 <p align="right">
   <a href="https://apps.apple.com/jp/app/id6738453727">
     <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1641427200" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 100px;">
